@@ -1,0 +1,17 @@
+IGUI_FR = {
+	IGUI_Cooldown_Grabs = "Temps d'attente avant d'être attrapé",
+	IGUI_Minimum_Scratch = "Résistance aux égratignures minimales pour être attrapé",
+
+	IGUI_Can_Damage_Belt = "Activer les dommages à la ceinture",
+	IGUI_Can_Damage_Pants = "Activer les dommages aux pantalons",
+	IGUI_Can_Damage_Tshirt = "Activer les dommages aux t-shirts",
+	IGUI_Can_Damage_Shoes = "Activer les dommages aux chaussures",
+
+	IGUI_Condition_Damage = "État des vêtements endommagés par prise",
+	IGUI_Disable_Equipment_Top_Damage = "Activer les dommages aux vêtements du haut / torse",
+	IGUI_Disable_Equipment_Bottom_Damage = "Activer les dommages aux vêtements du bas / pantalons",
+	IGUI_Disable_Equipment_Full_Damage = "Activer les dommages aux vêtements complets / vestimentaires",
+	IGUI_Disable_Equipment_Hole_Damage = "Les zombies feront des trous dans les vêtements",
+	IGUI_Hole_Damage_Value = "Chance que la prise des zombies crée des trous aux vêtements",
+	IGUI_Grab_Range = "Portée de saisie des zombies",
+}
